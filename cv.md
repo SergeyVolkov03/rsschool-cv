@@ -4,7 +4,7 @@
 * Loction: Minsk, Belarus
 * Phone: +375 29 874-22-37
 * Email: serzhvolkov03@gmail.com
-* GitHub: [https://github.com/SergeyVolkov03] [SergeyVolkov03]
+* GitHub: [SergeyVolkov03](https://github.com/SergeyVolkov03)
 *****
 ## **About Me**
 I want to become a good full stack developer.
