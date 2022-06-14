@@ -33,8 +33,8 @@ const func = (a, b) => {
 * College: Minsk State Higher Radio Engineering College, radio technician
 * University: Minsk Institute of Management, manager
 * Courses:
-    + [python][https://teachmeskills.by/kursy-programmirovaniya/obuchenie-python-minsk]
-    + [mongoDBBasics][https://university.mongodb.com]
+    + [python](https://teachmeskills.by/kursy-programmirovaniya/obuchenie-python-minsk)
+    + [mongoDBBasics](https://university.mongodb.com)
 *****
 ## **English**
 **A2**(I am trying to improve my English and I want to reach the B2 level)
